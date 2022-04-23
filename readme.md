@@ -1,6 +1,6 @@
 <img src="docs/img.png" align="right" width="30%">  
 
-## A new 3d detection method name CM3DV
+## CM3DV: A new 3d detection method
 ### Requirements
 - CUDA >= 9.0
 - Python 3.6.0
